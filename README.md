@@ -2,7 +2,7 @@
 
 Apoyate en los siguientes recursos para realizar la práctica:
 
-[Descripción de la práctica](https://revilofe.github.io/section1/u01/](https://revilofe.github.io/section3/u01/practica/EDES-U1.-Practica010/)
+[Descripción de la práctica](https://revilofe.github.io/section1/u01/](https://revilofe.github.io/section3/u01/practica/EDES-U1.-Practica011/)
 
 
 ---
